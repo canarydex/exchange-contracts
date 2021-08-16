@@ -9,7 +9,7 @@
     ],
     "version": {
         "major": 21,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tokens": [
@@ -117,6 +117,14 @@
             "name": "ChainLink Token",
             "symbol": "LINK.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
+            "decimals": 18,
+            "name": "Yield Yak",
+            "symbol": "YAK",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png"
         }
     ],
     "timestamp": "2021-05-12T12:33:00+00:00"
