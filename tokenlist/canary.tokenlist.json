@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 19,
+        "major": 20,
         "minor": 0,
         "patch": 0
     },
@@ -85,6 +85,14 @@
             "symbol": "AVE",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/avaware/avaware/main/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+            "decimals": 8,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WBTC/logo.png"
         }
     ],
     "timestamp": "2021-05-12T12:33:00+00:00"
