@@ -1,0 +1,91 @@
+{
+    "name": "Canary Tokens",
+    "logoURI": "https://raw.githubusercontent.com/canarydex/exchange-contracts/master/tokenlist/logos/canary.png",
+    "keywords": [
+        "avalanche",
+        "defi",
+        "ethereum",
+        "bridge"
+    ],
+    "version": {
+        "major": 19,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 43113,
+            "address": "0x695c1d3Be6be6BcE84989701c60f1F180508B5C5",
+            "decimals": 18,
+            "name": "Canary",
+            "symbol": "CNR",
+            "logoURI": "https://raw.githubusercontent.com/canarydex/exchange-contracts/master/tokenlist/logos/canary.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+            "decimals": 18,
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "logoURI": "https://github.com/ava-labs/bridge-tokens/raw/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf",
+            "decimals": 18,
+            "name": "Canary",
+            "symbol": "CNR",
+            "logoURI": "https://raw.githubusercontent.com/canarydex/exchange-contracts/master/tokenlist/logos/canary.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+            "decimals": 18,
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "logoURI": "https://github.com/ava-labs/bridge-tokens/raw/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+            "decimals": 18,
+            "name": "Ether",
+            "symbol": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651",
+            "decimals": 18,
+            "name": "ChainLink Token",
+            "symbol": "LINK",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xde3A24028580884448a5397872046a019649b084",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png"
+        }
+		,
+        {
+            "chainId": 43114,
+            "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+            "decimals": 18,
+            "name": "Pangolin",
+            "symbol": "PNG",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+        },
+        {
+            "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
+            "chainId": 43114,
+            "name": "Avaware",
+            "symbol": "AVE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/avaware/avaware/main/logo.png"
+        }
+    ],
+    "timestamp": "2021-05-12T12:33:00+00:00"
+}
