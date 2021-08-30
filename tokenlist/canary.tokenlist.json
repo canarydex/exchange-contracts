@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 22,
+        "major": 23,
         "minor": 1,
         "patch": 0
     },
@@ -149,7 +149,39 @@
             "name": "Elk",
             "symbol": "ELK",
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+            "decimals": 18,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/DAI/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
+            "decimals": 18,
+            "name": "SushiToken",
+            "symbol": "SUSHI.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SUSHI/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+            "decimals": 18,
+            "name": "Aave Token",
+            "symbol": "AAVE.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/AAVE/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084",
+            "decimals": 18,
+            "name": "Lydia Finance",
+            "symbol": "LYD",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png"
         }
     ],
-    "timestamp": "2021-08-26T22:00:00+00:00"
+    "timestamp": "2021-08-30T22:00:00+00:00"
 }
