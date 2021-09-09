@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 23,
+        "major": 24,
         "minor": 1,
         "patch": 0
     },
@@ -181,7 +181,23 @@
             "name": "Lydia Finance",
             "symbol": "LYD",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo.png"
+        },
+        {
+            "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+            "chainId": 43114,
+            "name": "Joe Token",
+            "symbol": "JOE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
         }
     ],
-    "timestamp": "2021-08-30T22:00:00+00:00"
+    "timestamp": "2021-09-09T22:00:00+00:00"
 }
