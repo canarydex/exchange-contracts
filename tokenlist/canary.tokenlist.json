@@ -47,31 +47,6 @@
         },
         {
             "chainId": 43114,
-            "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
-            "decimals": 18,
-            "name": "Ether",
-            "symbol": "ETH",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651",
-            "decimals": 18,
-            "name": "ChainLink Token",
-            "symbol": "LINK",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xde3A24028580884448a5397872046a019649b084",
-            "decimals": 6,
-            "name": "Tether USD",
-            "symbol": "USDT",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png"
-        }
-		,
-        {
-            "chainId": 43114,
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
             "decimals": 18,
             "name": "Pangolin",
@@ -197,6 +172,22 @@
             "name": "USD Coin",
             "symbol": "USDC.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x488F73cddDA1DE3664775fFd91623637383D6404",
+            "decimals": 18,
+            "name": "YetiSwap",
+            "symbol": "YTS",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/yetiswap.app/master/src/assets/image/YTSCoin.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x617724974218a18769020a70162165a539c07e8a",
+            "decimals": 18,
+            "name": "OliveCash Token",
+            "symbol": "OLIVE",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x617724974218A18769020A70162165A539c07E8a/logo.png"
         }
     ],
     "timestamp": "2021-09-09T22:00:00+00:00"
