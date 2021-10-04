@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 25,
+        "major": 26,
         "minor": 1,
         "patch": 0
     },
@@ -188,7 +188,23 @@
             "name": "OliveCash Token",
             "symbol": "OLIVE",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x617724974218A18769020A70162165A539c07E8a/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
+            "decimals": 18,
+            "name": "Penguin Finance",
+            "symbol": "PEFI",
+            "logoURI": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/pefiv2_250x250.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
+            "decimals": 18,
+            "name": "Snowball",
+            "symbol": "SNOB",
+            "logoURI": "https://raw.githubusercontent.com/Snowball-Finance/Assets/main/Uphill%20snowball.png"
         }
     ],
-    "timestamp": "2021-09-14T22:00:00+00:00"
+    "timestamp": "2021-10-04T22:00:00+00:00"
 }
