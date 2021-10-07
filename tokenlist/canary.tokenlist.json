@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 26,
+        "major": 27,
         "minor": 1,
         "patch": 0
     },
@@ -204,7 +204,15 @@
             "name": "Snowball",
             "symbol": "SNOB",
             "logoURI": "https://raw.githubusercontent.com/Snowball-Finance/Assets/main/Uphill%20snowball.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xF873633DF9D5cDd62BB1f402499CC470a72A02D7",
+            "decimals": 18,
+            "name": "Moonriver Token",
+            "symbol": "MOVR",
+            "logoURI": "https://raw.githubusercontent.com/canarydeveloper/tokens/master/assets/0xF873633DF9D5cDd62BB1f402499CC470a72A02D7/logo.png"
         }
     ],
-    "timestamp": "2021-10-04T22:00:00+00:00"
+    "timestamp": "2021-10-08T22:00:00+00:00"
 }
