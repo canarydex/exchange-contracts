@@ -3,13 +3,14 @@
     "logoURI": "https://raw.githubusercontent.com/canarydex/exchange-contracts/master/tokenlist/logos/canary.png",
     "keywords": [
         "avalanche",
+        "scroll,
         "defi",
         "ethereum",
         "bridge"
     ],
     "version": {
-        "major": 29,
-        "minor": 1,
+        "major": 30,
+        "minor": 0,
         "patch": 0
     },
     "tokens": [
@@ -228,7 +229,103 @@
             "name": "Sherpa",
             "symbol": "SHERPA",
             "logoURI": "https://raw.githubusercontent.com/canarydeveloper/tokens/master/assets/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png"
-       }
+       },
+        {
+            "chainId": 534352,
+            "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png"
+        },
+		{
+            "chainId": 534352,
+            "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/c4a56ed4-79bd-4af9-9ea5-c691fd560ef8.png"
+        },
+		{
+            "chainId": 534352,
+            "address": "0x5300000000000000000000000000000000000004",
+            "decimals": 18,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "logoURI": "https://assets.coingecko.com/coins/images/31013/large/wrapped-eth-mantle-bridge.png"
+        },
+		{
+            "chainId": 534352,
+            "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
+            "decimals": 8,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "logoURI": "https://assets.coingecko.com/coins/images/7598/standard/wrapped_bitcoin_wbtc.png"
+        },
+		{
+            "chainId": 534352,
+            "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+            "decimals": 6,
+            "name": "Axelar Wrapped USDC",
+            "symbol": "axlUSDC",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21420.png"
+        },
+		{
+            "chainId": 534352,
+            "address": "0xca77eb3fefe3725dc33bccb54edefc3d9f764f97",
+            "decimals": 18,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/73f1250c-bccd-4c11-adbd-46b5016bf0601697556794482.png"
+        },
+		{
+            "chainId": 534352,
+            "address": "0x608ef9a3bffe206b86c3108218003b3cfbf99c84",
+            "decimals": 18,
+            "name": "Kyber Network Crystal v2",
+            "symbol": "KNC",
+            "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/70129bd5-c3eb-44e8-b9fc-e6d76bf80b921697557071098.png"
+        },
+		{
+            "chainId": 534352,
+            "address": "0xddeb23905f6987d5f786a93c00bbed3d97af1ccc",
+            "decimals": 18,
+            "name": "PunkSwap Token",
+            "symbol": "PUNK",
+            "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/bcc2ed81-3d91-4b71-a615-ed4102cf8fb41697557738542.png"
+        },
+		{
+            "chainId": 534352,
+            "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+            "decimals": 6,
+            "name": "Axelar",
+            "symbol": "AXL",
+            "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/1e3fd528-9a94-454b-aa88-0f45c2eb1d3b1697631605034.png"
+        },
+		{
+            "chainId": 534352,
+            "address": "0x87203ff9393dc97d7847b4d4103bc32fea7d2db2",
+            "decimals": 9,
+            "name": "Script",
+            "symbol": "SCRIPT",
+            "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/b6842f76-1782-42c8-bd94-17706603ee151697564056597.png"
+        },
+		{
+            "chainId": 534352,
+            "address": "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32",
+            "decimals": 18,
+            "name": "Wrapped liquid staked Ether 2.0",
+            "symbol": "wstETH",
+            "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/20e46115-d8f4-4244-8bfc-94ab7dc8b5dd1697557657933.png"
+        },
+		{
+            "chainId": 534352,
+            "address": "0xb448ec505c924944ca8b2c55ef05c299ee0781df",
+            "decimals": 18,
+            "name": "Axelar Wrapped KNC",
+            "symbol": "axlKNC",
+            "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/29611550-2c66-4d7e-a496-fba3ee92a5fd1697630736488.png"
+        }
     ],
-    "timestamp": "2021-10-29T22:00:00+00:00"
+    "timestamp": "2023-11-18T22:00:00+00:00"
 }
