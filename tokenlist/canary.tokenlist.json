@@ -15,6 +15,22 @@
     },
     "tokens": [
         {
+            "chainId": 43113,
+            "address": "0x695c1d3Be6be6BcE84989701c60f1F180508B5C5",
+            "decimals": 18,
+            "name": "Canary",
+            "symbol": "CNR",
+            "logoURI": "https://raw.githubusercontent.com/canarydex/exchange-contracts/master/tokenlist/logos/canary.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+            "decimals": 18,
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "logoURI": "https://github.com/ava-labs/bridge-tokens/raw/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+        },
+        {
             "chainId": 43114,
             "address": "0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf",
             "decimals": 18,
