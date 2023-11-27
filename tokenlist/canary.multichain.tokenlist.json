@@ -39,14 +39,6 @@
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
         },
         {
-            "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
-            "chainId": 43114,
-            "name": "Avaware",
-            "symbol": "AVE",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/avaware/avaware/main/logo.png"
-        },
-        {
             "chainId": 43114,
             "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
             "decimals": 6,
@@ -168,51 +160,11 @@
         },
         {
             "chainId": 43114,
-            "address": "0x617724974218a18769020a70162165a539c07e8a",
-            "decimals": 18,
-            "name": "OliveCash Token",
-            "symbol": "OLIVE",
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x617724974218A18769020A70162165A539c07E8a/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
-            "decimals": 18,
-            "name": "Penguin Finance",
-            "symbol": "PEFI",
-            "logoURI": "https://raw.githubusercontent.com/Penguin-Finance/png-files/main/pefiv2_250x250.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
-            "decimals": 18,
-            "name": "Snowball",
-            "symbol": "SNOB",
-            "logoURI": "https://raw.githubusercontent.com/Snowball-Finance/Assets/main/Uphill%20snowball.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xF873633DF9D5cDd62BB1f402499CC470a72A02D7",
-            "decimals": 18,
-            "name": "Moonriver Token",
-            "symbol": "MOVR",
-            "logoURI": "https://raw.githubusercontent.com/canarydeveloper/tokens/master/assets/0xF873633DF9D5cDd62BB1f402499CC470a72A02D7/logo.png"
-        },
-        {
-            "chainId": 43114,
             "address": "0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D",
             "decimals": 18,
             "name": "Weble Ecosystem Token",
             "symbol": "WET",
             "logoURI": "https://raw.githubusercontent.com/canarydeveloper/tokens/master/assets/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6",
-            "decimals": 18,
-            "name": "Sherpa",
-            "symbol": "SHERPA",
-            "logoURI": "https://raw.githubusercontent.com/canarydeveloper/tokens/master/assets/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo.png"
         },
         {
             "chainId": 534352,
