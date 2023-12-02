@@ -9,7 +9,7 @@
         "bridge"
     ],
     "version": {
-        "major": 30,
+        "major": 31,
         "minor": 0,
         "patch": 0
     },
@@ -261,6 +261,30 @@
             "name": "Axelar Wrapped KNC",
             "symbol": "axlKNC",
             "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/29611550-2c66-4d7e-a496-fba3ee92a5fd1697630736488.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+            "decimals": 6,
+            "name": "Tether Token",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+            "decimals": 8,
+            "name": "Bitcoin",
+            "symbol": "BTC.b",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png"
         }
     ],
     "timestamp": "2023-11-27T22:00:00+00:00"
