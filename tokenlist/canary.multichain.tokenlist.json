@@ -9,7 +9,7 @@
         "bridge"
     ],
     "version": {
-        "major": 32,
+        "major": 33,
         "minor": 0,
         "patch": 0
     },
@@ -269,6 +269,65 @@
             "name": "Bitcoin",
             "symbol": "BTC.b",
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+            "decimals": 18,
+            "name": "GMX",
+            "symbol": "GMX",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x714f020C54cc9D104B6F4f6998C63ce2a31D1888",
+            "decimals": 18,
+            "name": "STEP.APP",
+            "symbol": "FITFI",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x714f020C54cc9D104B6F4f6998C63ce2a31D1888/logo_24.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+            "decimals": 18,
+            "name": "Staked AVAX",
+            "symbol": "sAVAX",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
+            "decimals": 18,
+            "name": "GoGoPool AVAX",
+            "symbol": "ggAVAX",
+            "tags": [
+                "DeFi"
+            ],
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x420FcA0121DC28039145009570975747295f2329",
+            "decimals": 18,
+            "name": "COQINU",
+            "symbol": "COQ",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x420FcA0121DC28039145009570975747295f2329/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xd402298a793948698b9a63311404FBBEe944eAfD",
+            "decimals": 18,
+            "name": "SHRAPToken",
+            "symbol": "SHRAP",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd402298a793948698b9a63311404FBBEe944eAfD/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x093783055f9047c2bff99c4e414501f8a147bc69",
+            "decimals": 18,
+            "name": "Dexalot Token",
+            "symbol": "ALOT",
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x093783055f9047c2bff99c4e414501f8a147bc69/logo.png"
         }
     ],
     "timestamp": "2023-11-27T22:00:00+00:00"
